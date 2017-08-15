@@ -1,5 +1,5 @@
-#ifndef __CANOPEM_H
-#define __CANOPEM_H
+#ifndef __CANOPEN_H
+#define __CANOPEN_H
 
 /////////////////////////////////////////////////////////////////////
 //// modyfied by hp 2017.8.15
